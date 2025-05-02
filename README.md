@@ -1,4 +1,5 @@
 # university
 Author-Navprabhat
-hello
-this is the second time i am  doing the change for push
+Hello tis github link is madeup for project work
+Sem-2
+Subject-Generic Python 
